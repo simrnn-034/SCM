@@ -1,3 +1,4 @@
 this is a new repository
 hii there
 simrn here
+scm practical file
