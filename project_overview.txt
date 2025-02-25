@@ -1,0 +1,1 @@
+This SCM project provides us commands about initalising,merging,cloning,push and pull
